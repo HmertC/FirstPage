@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+#header{
+	width:1000px;
+	height:100px;
+	background: #66ff00;
+	
+	margin:0 auto 0 auto;
+	display:table;
+}
+#content{
+	width:1000px;
+	height:auto;
+	background:#66ff00;
+	
+	
+	margin:0 auto 0 auto;
+	display:table;
+	
+}
+#content h1{
+	margin:0 auto 0	auto;
+	display:table;
+	height:auto;
+	color:#008000;
+	
+}
+#content .yazilar p{
+	font-size: 25px;
+	
+}
+#content .bilgi p{
+	font-size:25px;
+}
+#footer {
+	width:770px;
+	height:20px;
+	padding:10px 15px 10px 15px;
+	margin:0 auto 0 auto;
+	display:table;
+}
+#footer p{
+
+	text-align:center;
+	font-size:15px;
+	background:#FFFF00;
+	font-weight:bold;
+}
+
+.logomuz{
+	 margin:0 auto 0 auto;
+	display:table;
+	
+	
+
+}
+.menu{
+	 margin:0 auto 0 auto;
+	display:table;
+}
+.menu li{
+	float:left;
+	list-style-type:none;
+	margin-right: 20px;
+	
+	padding: 5px 5px;
+	border:1px solid #000;
+}
+.menu li a{
+	color:#FFFF00;
+	font-size: 20px ;
+	text-decoration:none;	
+}
+.menu li a:hover{
+	color:#CDCD00;
+	
+}
+.fotograflar{
+	margin:0 auto 0 auto;
+	display:table
+}
+.fotograflar .fotograf{
+	float:left;
+	width: auto;
+	height:auto;
+	border:1px solid #66ff00;
+	padding: auto;
+	background: #CDCD00;
+	margin:auto;
+}
+.fotograflar .fotograf img{
+	width:100%;
+	height:auto;
+}
+.ilet img{
+float:center;
+width:50%;
+height:auto;
+margin:center;
+height:auto;
+}
